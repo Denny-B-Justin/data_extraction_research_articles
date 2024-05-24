@@ -9,10 +9,10 @@ Steps:
 5. Use the appropriate code from the repository
 
 Files:
-main code_with abstract: if the .txt file has all the necessary data and you wish to extract abstract too.
-main code_without abstract: if the .txt file has all the necessary data and you wish not to extract abstract too.
-no author_with abstract: if the .txt file does not have authors' data and you wish to extract the abstract too.
-no author_without abstract: if the .txt file does not have authors' data and you wish not to extract the abstract too.
+1. main code_with abstract: if the .txt file has all the necessary data and you wish to extract abstract too.
+2. main code_without abstract: if the .txt file has all the necessary data and you wish not to extract abstract too.
+3. no author_with abstract: if the .txt file does not have authors' data and you wish to extract the abstract too.
+4. no author_without abstract: if the .txt file does not have authors' data and you wish not to extract the abstract too.
 
 Choose the code according to your data and preferences.
 
